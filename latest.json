@@ -1,5 +1,5 @@
 {
-  "version": "2.1.9802",
+  "version": "2.1.9803",
   "url": "https://github.com/JSofts/pwm/releases/latest",
-  "notes": "- Добавлено сообщение если версия актуальна"
+  "notes": "- Добавлена поддержка стилей"
 }
